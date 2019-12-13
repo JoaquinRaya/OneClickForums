@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OneClickForums.Model.Ef\OneClickForums.Model.Ef.csproj" />
+    <ProjectReference Include="..\OneClickForums.Model\OneClickForums.Model.csproj" />
+  </ItemGroup>
+
+</Project>
